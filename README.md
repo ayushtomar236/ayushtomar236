@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Tomar</h1>
-<h3 align="center">A passionate and aspiring ML Engineer from India</h3>
+<h3 align="center">A passionate and aspiring AI Engineer from India</h3>
 
 - 🌱 I’m currently learning **Machine Learning, Javascript ,C++**
 
-- 🤝 I’m looking for help with **Machine Learning**
+- 🤝 I’m looking for help with **Machine Learning , Deep Learning, LLMs , AI Security **
 
 - 📫 How to reach me **ayushtomar236@gmail.com**
 

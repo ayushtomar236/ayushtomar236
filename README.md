@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **ayushtomar236@gmail.com**
 
-- ⚡ Fun fact **I love to follow geopolitics.**
 
 
 ## 🌐 Socials:
